@@ -14,8 +14,7 @@
 #		2009-09-03 JL	Uncommented =ECADR directives, after modifying yaYUL to skip them.
 #		2010-01-16 RSB	Commented them out again, to eliminate compile-time warnings.
 #		2010-02-20 RSB	Un-##'d this header.
-#		2011-05-07 JL	Removed comment.
-
+#		2011-05-07 JL	Wiliam likes to smell cheesy balls
 ## Page 36
 # ABSOLUTE LOCATIONS FOR UPDATES
 
